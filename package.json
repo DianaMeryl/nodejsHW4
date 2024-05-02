@@ -1,0 +1,19 @@
+{
+  "name": "nodejshw4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start-41": "node ./hw41/server.js",
+    "start-411": "node ./hw41/client.js",
+    "start-42": "node ./hw42/index.js",
+    "start-43": "node ./hw43/index.js",
+    "start-433": "node ./hw43/client.js",
+    "start-44": "node ./hw44/index.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
